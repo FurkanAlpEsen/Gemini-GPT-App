@@ -13,7 +13,7 @@ pc or phone be careful.
 
 ## EXAMPLES 
 
-<img src="assets/chat.png" width="400" height="600"/>
+<img src="assets/chat.png" width="300" height="600"/>
 
 ## Next Steps
 
