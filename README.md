@@ -13,7 +13,8 @@ pc or phone be careful.
 
 ## EXAMPLES 
 
-![Simple Chat](assets/chat.png?raw=true "Optional Title")
+![Simple Chat]
+<img src="assets/chat.png" width="100" height="200"/>
 
 ## Next Steps
 
