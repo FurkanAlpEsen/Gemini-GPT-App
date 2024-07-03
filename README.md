@@ -17,4 +17,9 @@ pc or phone be careful.
 
 ## Next Steps
 
-- This application cannot store any conversation details. Next steps will store the conversation in Hive Database. Stay following!!
+- This application cannot store any conversation details. Next steps will store the conversation in Hive Database.
+- Picture predictions on the phones and access to real time camera images.
+- Stay following!!
+
+##Thanks to
+[Fabrice Fabio](https://github.com/Fabrice-Fabio/gemini-chat-app)
